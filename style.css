@@ -1,0 +1,57 @@
+/*.text-center{*/
+/*    padding: revert;*/
+/*    background-color: lightblue*/
+/*}*/
+
+.bg-lightblue{
+    background: lightblue;
+}
+
+p {
+    font-size: 16px;
+    text-align: center;
+}
+
+
+#img {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://getwallpapers.com/wallpaper/full/2/0/3/30145.jpg);
+    height: 12rem;
+    background-size: 100%;
+    background-position: center -17rem;
+}
+
+.card-columns {
+
+
+}
+
+.page-item{
+padding: 0.25%
+}
+
+#footer{
+    text-align: center;
+    padding: 20px;
+}
+
+.form-group{
+    margin-top: 20px;
+    display: flex;
+
+}
+
+.ratio-2\/1{
+aspect-ratio: 2/1;
+}
+
+.border {
+    padding: 1.5rem;
+}
+
+.float-right {
+    justify-content: center;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.5%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important
+}
